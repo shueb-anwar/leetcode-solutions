@@ -7,7 +7,7 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 
 **Example 1:**
 
-![alt text](200px-Telephone-keypad2.svg.png "Logo Title Text 1")
+![alt text](media/200px-Telephone-keypad2.svg.png "Logo Title Text 1")
 
 ```
 Input: digits = "23"

@@ -8,7 +8,7 @@ Given the `root` of a binary tree, flatten the tree into a "linked list":
 
 Example 1:
 
-![alt text](flaten.jpeg "Merge two orted array")
+![alt text](media/flaten.jpeg "Merge two orted array")
 
 ```
 Input: root = [1,2,5,3,4,null,6]

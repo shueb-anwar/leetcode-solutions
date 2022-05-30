@@ -11,14 +11,14 @@ Both the left and right subtrees must also be binary search trees.
 
 **Example 1**:
 
-![alt text](tree1.jpeg "Merge two orted array")
+![alt text](media/tree1.jpeg "Merge two orted array")
 ```
 Input: root = [2,1,3]
 Output: true
 ```
 **Example 2:**
 
-![alt text](tree2.jpeg "Merge two orted array")
+![alt text](media/tree2.jpeg "Merge two orted array")
 ```
 Input: root = [5,1,4,null,null,3,6]
 Output: false

@@ -10,7 +10,7 @@ The **length** of a path between two nodes is represented by the number of edges
 
 **Example 1:**
 
-![alt text](diamtree.jpeg "Merge two orted array")
+![alt text](media/diamtree.jpeg "Merge two orted array")
 ```
 Input: root = [1,2,3,4,5]
 Output: 3

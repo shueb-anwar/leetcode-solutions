@@ -8,7 +8,7 @@ If two nodes are in the same row and column, the order should be from **left to 
 
 **Example 1:**
 
-![alt text](vtree1.jpeg "Logo Title Text 1")
+![alt text](media/vtree1.jpeg "Logo Title Text 1")
 ```
 Input: root = [3,9,20,null,null,15,7]
 Output: [[9],[3,15],[20],[7]]
@@ -16,7 +16,7 @@ Output: [[9],[3,15],[20],[7]]
 
 **Example 2:**
 
-![alt text](vtree2-1.jpeg "Logo Title Text 1")
+![alt text](media/vtree2-1.jpeg "Logo Title Text 1")
 ```
 Input: root = [3,9,8,4,0,1,7]
 Output: [[4],[9],[3,0,1],[8],[7]]
@@ -24,7 +24,7 @@ Output: [[4],[9],[3,0,1],[8],[7]]
 
 **Example 3:**
 
-![alt text](vtree2.jpeg "Logo Title Text 1")
+![alt text](media/vtree2.jpeg "Logo Title Text 1")
 ```
 Input: root = [3,9,8,4,0,1,7,null,null,null,2,5]
 Output: [[4],[9,5],[3,0,1],[8,2],[7]]

@@ -8,7 +8,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 **Example 1:**
 
-![alt text](addtwonumber.jpeg "Logo Title Text 1")
+![alt text](media/addtwonumber.jpeg "Logo Title Text 1")
 
 ```
 Input: l1 = [2,4,3], l2 = [5,6,4]

@@ -8,7 +8,7 @@ A **leaf** is a node with no children.
 
 **Example 1:**
 
-![alt text](paths-tree.jpeg "Merge two orted array")
+![alt text](media/paths-tree.jpeg "Merge two orted array")
 ```
 Input: root = [1,2,3,null,5]
 Output: ["1->2->5","1->3"]

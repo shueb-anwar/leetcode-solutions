@@ -6,7 +6,7 @@ Given the `root` of a binary tree, imagine yourself standing on the **right side
 
 **Example 1**:
 
-![alt text](tree.jpeg "Merge two orted array")
+![alt text](media/tree.jpeg "Merge two orted array")
 ```
 Input: root = [1,2,3,null,5,null,4]
 Output: [1,3,4]

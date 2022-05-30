@@ -15,7 +15,7 @@ Return true if and only if it is bipartite.
 
 **Example 1:**
 
-![alt text](bi2.jpeg "Logo Title Text 1")
+![alt text](media/bi2.jpeg "Logo Title Text 1")
 
 ```
 Input: graph = [[1,2,3],[0,2],[0,1,3],[0,2]]
@@ -24,7 +24,7 @@ Explanation: There is no way to partition the nodes into two independent sets su
 ```
 **Example 2:**
 
-![alt text](bi1.jpeg "Logo Title Text 1")
+![alt text](media/bi1.jpeg "Logo Title Text 1")
 ```
 Input: graph = [[1,3],[0,2],[1,3],[0,2]]
 Output: true

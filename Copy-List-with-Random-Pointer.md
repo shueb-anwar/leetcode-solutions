@@ -17,19 +17,19 @@ Your code will **only** be given the `head` of the original linked list.
  
 
 **Example 1:**
-![alt text](e1.png "Merge two orted array")
+![alt text](media/e1.png "Merge two orted array")
 ```
 Input: head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
 Output: [[7,null],[13,0],[11,4],[10,2],[1,0]]
 ```
 **Example 2:**
-![alt text](e2.png "Merge two orted array")
+![alt text](media/e2.png "Merge two orted array")
 ```
 Input: head = [[1,1],[2,1]]
 Output: [[1,1],[2,1]]
 ```
 **Example 3:**
-![alt text](e3.png "Merge two orted array")
+![alt text](media/e3.png "Merge two orted array")
 ```
 Input: head = [[3,null],[3,0],[3,null]]
 Output: [[3,null],[3,0],[3,null]]

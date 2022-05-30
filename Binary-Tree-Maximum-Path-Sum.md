@@ -10,7 +10,7 @@ Given the root of a binary tree, return the maximum **path sum** of any **non-em
 
 **Example 1:**
 
-![alt text](exx1.jpeg "Merge two orted array")
+![alt text](media/exx1.jpeg "Merge two orted array")
 ```
 Input: root = [1,2,3]
 Output: 6
@@ -18,7 +18,7 @@ Explanation: The optimal path is 2 -> 1 -> 3 with a path sum of 2 + 1 + 3 = 6.
 ```
 **Example 2:**
 
-![alt text](exx2.jpeg "Merge two orted array")
+![alt text](media/exx2.jpeg "Merge two orted array")
 ```
 Input: root = [-10,9,20,null,null,15,7]
 Output: 42
